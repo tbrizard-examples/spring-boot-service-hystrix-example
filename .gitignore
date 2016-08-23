@@ -1,0 +1,4 @@
+.classpath
+.project
+client-hystrix-service/.settings
+client-hystrix-webapp/.settings
